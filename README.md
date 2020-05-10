@@ -3,7 +3,8 @@
 **Carnegie Mellon University - 24783 Final Project, Spring 2020**  
 **Authors: Zeeshan Ahmed, Malhar Bhoite, Vinay Varma Kalidindi**
 
-MooNO is a single player card game with GUI built using C++ and OpenGL. Goal of the game is to get rid of all your cards! Enjoy!
+MooNO is a single player card game with GUI built using C++ and OpenGL.  
+Goal of the game is to get rid of all your cards! Enjoy!
 
 ## Installation
 
